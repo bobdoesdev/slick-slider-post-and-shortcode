@@ -1,0 +1,13 @@
+To do:
+
+--namespace so there is no interference with other plugins
+
+--fix links
+
+--if gallery names are given with spaces or other characters incongruent with js, change them with a regex
+
+
+maybe:
+
+--add size attribute to specify size from wp ie thumbnail
+
