@@ -4,7 +4,8 @@
  * Description: Adds a custom post type and custom taxonomy for slides, as well as shortcodes for displaying galleries with slick slider.
  * Version: 1.0
  * Author: Bob, O'Brien, Digital Eel Inc.
- * Licence: GPL2
+ * Author URI: https://digitaleel.com
+ * License: GPL2
  */
 
 defined( 'ABSPATH' ) or die( 'No script kiddies please!' );
