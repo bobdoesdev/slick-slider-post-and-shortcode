@@ -1,9 +1,4 @@
-<?php // exit if file is called directly
-if ( ! defined( 'ABSPATH' ) ) {
-
-  exit;
-
-} ?>
+<?php defined( 'ABSPATH' ) or die( 'No script kiddies please!' ); ?>
 
 <?php 
   $slickData = array(
